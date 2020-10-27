@@ -1021,6 +1021,22 @@ table tfoot td {
   margin: 0 5 0 10px;
 }
 
+.sidebar {
+  text-align: center;
+  font-family: IBMPlexMedium;
+}
+
+.sidebar a{
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.sidebar a:hover{
+  background-color: #D6E2E9
+}
+
+
+
 .content-box {
   padding: 20px;
   padding-left: 260px;
