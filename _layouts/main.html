@@ -14,7 +14,7 @@ layout: default
   </header> <!-- End Header -->
 
   <body>
-    <ul>
+    <ul style="list-style-type:none;">
       {% for item in site.data.side-nav.docs %}
       <li><a href="{{url}}/{{ item.url }}">{{ item.title }}</a></li>
       {% endfor %}
