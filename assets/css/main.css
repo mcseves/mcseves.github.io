@@ -1,6 +1,27 @@
 /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
+
+@font-face {
+  font-family: IBMPlexMedium;
+  src: url("../fonts/IBM_Plex_Sans/IBMPlexSans-Medium.ttf");
+}
+
+@font-face {
+  font-family: IBMPlexRegular;
+  src: url("../fonts/IBM_Plex_Sans/IBMPlexSans-Regular.ttf");
+}
+
+@font-face {
+  font-family: IBMPlexLight;
+  src: url("../fonts/IBM_Plex_Sans/IBMPlexSans-Light.ttf");
+}
+
+@font-face {
+  font-family: IBMPlexBold;
+  src: url("../fonts/IBM_Plex_Sans/IBMPlexSans-Bold.ttf");
+}
+
 /**
  * 1. Correct the line height in all browsers.
  * 2. Prevent adjustments of font size after orientation changes in
@@ -231,7 +252,7 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: sans-serif;
+  font-family: IBMPlexRegular;
   /* 1 */
   font-size: 100%;
   /* 1 */
@@ -772,10 +793,11 @@ html {
   line-height: 1.5;
 }
 
+/* COR DE FUNDO */
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: IBMPlexRegular;
   color: #515151;
-  background-color: #fbfbfb;
+  background-color: #d6e2e9;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -948,7 +970,7 @@ table tfoot td {
   -webkit-border-radius: 100%;
           border-radius: 100%;
   overflow: hidden;
-  background-color: #333030;
+  background-color: #274690;
 }
 
 .about img {
@@ -969,17 +991,16 @@ table tfoot td {
 }
 
 .about .author-name {
-  font-family: 'PT Serif', serif;
-  margin: 0 0 10px;
+  font-family: 'IBMPlexMedium';
+  margin: 0 0 5px;
   position: relative;
-  padding-bottom: 15px;
-  font-size: 16px;
-  text-transform: uppercase;
-  color: #333030;
-  font-weight: 700;
+  /* padding-bottom: 5px; */
+  font-size: 18px;
+  color: #274690;
+  font-weight: 800;
 }
 
-.about .author-name::after {
+/* .about .author-name::after {
   content: "";
   position: absolute;
   left: 50%;
@@ -993,11 +1014,11 @@ table tfoot td {
   -webkit-border-radius: 100%;
           border-radius: 100%;
   background-color: #515151;
-}
+} */
 
 .about p {
   font-size: 16px;
-  margin: 0 0 10px;
+  margin: 0 5 0 10px;
 }
 
 .content-box {
@@ -1162,9 +1183,9 @@ footer .copyright {
 }
 
 .post .post-content .post-title a {
-  font-family: 'PT Serif', serif;
+  font-family: 'IBMPlexMedium';
   text-decoration: none;
-  color: #263959;
+  color: #274690;
 }
 
 .post .post-content p {
@@ -1205,6 +1226,8 @@ a.newer-posts:hover {
 }
 
 .header-page .page-title {
+  font-family: IBMPlexBold;
+  color: #274690;
   font-weight: 400;
   margin: 0 0 10px;
   line-height: 1.3;
