@@ -10,7 +10,7 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Maria Carolina Séves # add your name
 author-img: maria-seves.jpeg # add your photo
 about-author: UX Designer who codes # add description
-social-twitter: darthmaria # add your Twitter handle
+# social-twitter:  # add your Twitter handle
 # social-facebook: # add your Facebook handle
 social-github: mcseves # add your Github handle
 social-linkedin: mcseves # add your Linkedin handle

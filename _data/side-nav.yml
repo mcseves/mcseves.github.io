@@ -1,0 +1,10 @@
+docs:
+
+- title: About
+  url: about
+
+- title: Older posts
+  url: allposts
+
+- title: Portfolio
+  url: portfolio
