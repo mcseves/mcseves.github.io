@@ -6,10 +6,7 @@ permalink: /about/
 
 ## About  
 
+Hello, my name is Maria Carolina and it's nice to meet you. 
 
-
-### Hello, my name is Maria Carolina and it's nice to meet you. 
-
-<p> I’m a Brazilian and Portuguese lady with a bachelor in Computer Engineering and an aptitude for design. My hobbies revolve around baking goods and reading.
+I’m a Brazilian and Portuguese lady with a bachelor in Computer Engineering and an aptitude for design. My hobbies revolve around baking goods and reading.
 My goal in life is to provide customers with an excellent experience! Currently, I'm studying User Experience Design and LCC.
-</p>
