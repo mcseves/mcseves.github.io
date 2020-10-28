@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Starting the first term
+title: Sensing togetherness: the UX of human senses
 date: 25 october 2020
-description:  # Add post description (optional)
+description: How do we keep in touch while keeping our distance?
 img: # Add image post (optional)
-tags: [Term 1] # add tag
+tags: [Term 1, UX Studio Practices] # add tag
 ---
 
 to be updated...
