@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sensing togetherness: the UX of human senses
+title: Sensing togetherness - the UX of human senses
 date: 25 october 2020
 description: How do we keep in touch while keeping our distance?
 img: # Add image post (optional)
-tags: [Term 1, UX Studio Practices] # add tag
+tags: [UX Studio Practices] # add tag
 ---
 
 to be updated...
