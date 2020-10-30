@@ -20,7 +20,7 @@ On our first assignment, we were invited to explore London while sensing togethe
 ![The human senses]({{site.baseurl}}/assets/img/The_Human_Senses.jpg)
 
 ## First task
-Our meeting point was right in front of a coffee place called Anfa Café at Farringdon, a small district in Central London. Standing there, we found ourselves looking for ways to complete our first task, inspired by the way children playing carefreely exploring all their senses. This was the result:
+Our meeting point was right in front of a coffee place called Anfa Café at Farringdon, a small district in Central London. Standing there, we found ourselves looking for ways to complete our first task, inspired by children playing carefreely exploring all their senses. This was the result:
 
 * **Sight:** wearing blue, crowns and beanies, and sporting some handmade face masks personalized with the four suits of a deck of cards, we placed ourselves on each side of the crossing road, the farthest way we could be where we could still see each other. Together, we synchronized a wave just like people do on game night at stadiums, keeping in sight the movement of each other. 
 
