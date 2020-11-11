@@ -8,8 +8,8 @@ permalink: /posts/
   <h3>{{ tag[0] }}</h3>
   <ul>
     {% for post in tag[1] %}
-    <span><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
-        <small><span>| {{ post.date | date_to_string }}</span></small>
+    <p><span><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
+        <small><span>| {{ post.date | date_to_string }}</span></small></p>
     {% endfor %}
   </ul>
 {% endfor %}
