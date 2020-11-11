@@ -1517,4 +1517,15 @@ a.newer-posts:hover {
   .post .post-content .post-title a {
     font-size: 21px;
   }
+
+  .figcaption {
+    border: 1px solid blue;
+    font-size: 12px;
+    text-shadow: none;
+    color: black;
+    text-align: center;
+    height: auto;
+    word-wrap: break-word;
+    width:300px;
+  }
 }
