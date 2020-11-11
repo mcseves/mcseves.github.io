@@ -2,8 +2,8 @@
 layout: post
 title: Building a multisensory experience
 date: 01 november 2020
-description: 
-img: 
+description: Creating 
+img: post2-cover.jpg
 tags: [UX Studio Practices] 
 ---
 
@@ -16,6 +16,8 @@ Following our [London exploration]({% post_url 2020-10-25-starting-the-year %}),
 
 Relieving our last meeting, the team concluded that we felt the closest when we shared sensations, feelings, and where interactions depended on the trust in one another.  As it is natural for humans, the act of having lunch together and sharing a cup of coffee made us feel familiar and was one of the highlights we chose.  Another was the experience of crossing a bench with closed eyes trusting in our senses of balance, proprioception, and that our colleague would not let us get too close to the edge.
 
+{% include image.html url="/assets/img/string-game.png" description="Credit: Maria Shutterstock" %}
+
 
 * **The Coffee Shop**
 
@@ -26,10 +28,13 @@ Our coffee shop experience revolved around the idea of sharing a cup of warm cof
 
 While exploring the district of Farringdon, we ended up in a secluded park, where we created the bench experiment. We thought it would be fun to walk across a bench with closed eyes while holding a string and sensing the vibration to choose which direction to go. This experience was the chosen one to be exhibited.
 
+{% include image.html url="/assets/img/Blueprints.png" description="Credit: Maria Shutterstock" %}
+
 To recreate this in our classroom environment and help everyone establish a connection, we concluded it would be interesting to stimulate all of our senses. 
 
 We chose to create a circuit, using tape on the floor to mark where the park customer would need to follow. The catch? The person had to close their eyes and follow the vibrations while avoiding the dangerous zones marked on the floor, which the crowd would let them know if they got closer by booing and clapping. We put music from an amusement park playing in the background and distributed colorful candy for all the class. Everyone received an invitation to interact and cheer for the participant. And our group decided to go characterized: Sebastian and I went dressed in bright colors since we were the hosts, and Maria S. and Damul were all in black to fade into the background as the ones who would be controlling the circuit. Due to unforeseen circumstances, the roles had to be changed when we presented.
 
+{% include image.html url="/assets/img/funfair.jpg" description="Credit: Alastair Steele" %}
 
 * **Results**
 
@@ -41,8 +46,7 @@ The class had a lot of fun, and we received feedback that it was enjoyable that 
 <br>
 
 ***
-<br>
-<br>
+
 #### References
 
 Lupton, E. and Lipps, A., 2018. *Why Sensory Design?*, Cooper Hewitt, Smithsonian Design Museum, viewed 01 november 2020, <https://www.cooperhewitt.org/2018/04/03/why-sensory-design/> 
