@@ -8,9 +8,9 @@ tags: [UX Studio Practices]
 ---
 
 
-> **Challenge:** Design a way to establish and maintain sensory personal contact amongst the people in your group whilst exploring the largest area of London you can
+> **Brief:** Design a way to establish and maintain sensory personal contact amongst the people in your group whilst exploring the largest area of London you can
 >
-> **Group:** Damul Yang, Maria Shutterstock, Maria Carolina Séves, Sebastian Ervi 
+> **Team:** Damul Yang, Maria Carolina Séves, Maria Shutterstock, Sebastian Ervi 
 >
 > **Meeting point:** 51º31’20.4”N 0º06’07.0”W
 
