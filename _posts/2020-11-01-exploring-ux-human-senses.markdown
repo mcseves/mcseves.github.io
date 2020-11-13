@@ -14,7 +14,7 @@ tags: [UX Studio Practices]
 
 Following our [London exploration]({% post_url 2020-10-25-starting-the-year %}), our next task was to create an experience for our classmates based on the happenings we thought made us feel the most connected and thus gave us the most sense of communion.
 
-Relieving our last meeting, the team concluded that we felt the closest when we shared sensations, feelings, and where interactions depended on the trust in one another.  As it is natural for humans, the act of having lunch together and sharing a cup of coffee made us feel familiar and was one of the highlights we chose.  Another was the experience of crossing a bench with closed eyes trusting in our senses of balance, proprioception, and that our colleague would not let us get too close to the edge.
+Reviewing our last meeting, the team concluded that we felt the closest when we shared sensations, feelings, and when interactions depended on the trust in one another.  As it is natural for humans, the act of having lunch together and sharing a cup of coffee made us feel familiar and was one of the highlights we chose.  Another was the experience of crossing a bench with closed eyes trusting in our senses of balance, proprioception, and that our colleague would not let us get too close to the edge.
 <br>
 <br>
 {% include image.html url="/assets/img/string-game.png" description="Credit: Maria Shutterstock" %}
