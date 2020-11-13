@@ -3,14 +3,14 @@ layout: post
 title: The UX of Skin
 date: 08 november 2020
 description: 
-img: 
+img: skin-cover-1.jpg
 tags: [UX Studio Practices] 
 ---
 > Brief: Design a way to express the skin/world interface
 > 
 > Team: Yitong Han, Moxue Jia, Max Hain, Maria Carolina Séves
 
-The skin shouldn't be simply remembered as the largest organ that protects our bodies. Anthropology, art, history, literature, philosophy, and sociology are some of the fields that research the different aspects of skin. For the next two weeks, the challenge was to create a prototype for the skin/world interface.
+The skin shouldn't be simply remembered as the largest organ that protects our bodies. Anthropology, art, history, literature, philosophy, and sociology are some of the fields that research the different aspects of skin. Presented with this facts, the challenge was to create a prototype for the skin/world interface.
 
 Before holding our first meeting, our group decided it would be relevant to do some individual research. I was pretty interested in the ways we use our skin to express ourselves and how different cultures use their bodies to portray information about identity and culture.
 
