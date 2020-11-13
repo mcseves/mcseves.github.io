@@ -21,7 +21,7 @@ social-email: mcmseves@gmail.com # add your Email address
 # discus-identifier: mr-brown # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-155952493-1
 
 # Build Settings
 markdown: kramdown
