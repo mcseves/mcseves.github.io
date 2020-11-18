@@ -39,3 +39,15 @@ Generally, the feedback was positive. Alistair said he particularly liked how we
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JnpC0S-uAwE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<br>
+<br>
+
+***
+
+#### References
+
+Iwamoto, L. and Scott, C. (n.d.). *IwamotoScott Architecture | Home.* [online] iwamotoscott.com. Available at: https://iwamotoscott.com [Accessed 15 Nov. 2020].
+
+Winstanley, T. (2011). *AD Classics: Institut du Monde Arabe / Enrique Jan + Jean Nouvel + Architecture-Studio.* [online] ArchDaily. Available at: https://www.archdaily.com/162101/ad-classics-institut-du-monde-arabe-jean-nouvel.
