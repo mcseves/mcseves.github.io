@@ -8,7 +8,7 @@ tags: [UX Studio Practices]
 ---
 > Brief: Design a way to express the skin/world interface
 > 
-> Team: Yitong Han, Moxue Jia, Max Hain, Maria Carolina Séves
+> Team: Yitong Han (Giada), Moxue Jia, Max Hain, Maria Carolina Séves
 
 The skin shouldn't be simply remembered as the largest organ that protects our bodies. Anthropology, art, history, literature, philosophy, and sociology are some of the fields that research the different aspects of skin. Presented with this facts, the challenge was to create a prototype for the skin/world interface.
 
@@ -42,7 +42,7 @@ To demonstrate how humans let different things get through them, we experimented
 
 During class, we showcased all our prototypes to help us decide what direction we should explore more, and the one that sparked the most interest was the one of privacy. For feedback, the recommendation was to think about scaling the prototype and not letting it be too literal and to think more about the materials we wanted to use and what we wanted to let go through it. 
 
-The feedback given resulted in a change of direction that you can find in my next post.
+The feedback given resulted in a change of direction that you can find [in my next post]({% post_url 2020-11-15-the-ux-of-skin-part-2 %}).
 
 {% include image.html url="/assets/img/ux-skin-1/prototype.png"%}
 
