@@ -23,7 +23,7 @@ For our artefact analysis, we decided to investigate two categories of items rel
 
 #### Directed Storytelling
 
-Realizing that the timelines of our musical artefacts showed different behaviour in consuming music, it was essential to interview people from different generations. The youngest person interviewed was 11 years old, and the oldest had 64 years old. We interviewed a total of 10 persons, and the prompt was: **tell me a story about a strong memory related to music**. 
+Realizing that the timelines of our musical artefacts showed different behaviour in consuming music, it was essential to interview people from different generations. The youngest person interviewed was 11 years old, and the oldest was 64 years old. We interviewed a total of 10 persons, and the prompt was: **tell me a story about a strong memory related to music**. 
 
 One of the interviewers said: 
 
