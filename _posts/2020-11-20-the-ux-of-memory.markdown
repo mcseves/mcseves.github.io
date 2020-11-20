@@ -3,7 +3,7 @@ layout: post
 title: The UX of Memory
 date: 20 november 2020
 description: The UX of Memory part 1
-img: 
+img: music-brain.jpg
 tags: [UX Studio Practices] 
 ---
 > Brief: Design an experience the externalises the nature of memory
