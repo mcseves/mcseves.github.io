@@ -56,5 +56,4 @@ After presenting these ideas to the class, we had positive reactions to the idea
 
 #### References
 
-
-
+Martin, B. and Hanington, B.M. (2012). *Universal methods of design : 100 ways to research complex problems, develop innovative ideas, and design effective solutions.* Beverly, Ma: Rockport Publishers.
