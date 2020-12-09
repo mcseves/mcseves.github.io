@@ -6,9 +6,8 @@ description: The UX of Memory part 1
 img: music-brain.jpg
 tags: [UX Studio Practices] 
 ---
-> Brief: Design an experience the externalises the nature of memory
-> 
-> Team: Damul Yang, Maria Carolina Séves, Qendressa Selimi, Sebastian Ervi 
+<p class="about-content-box"> <br> Brief: Design an experience the externalises the nature of memory
+<BR>Team: Damul Yang, Maria Carolina Séves, Qendressa Selimi, Sebastian Ervi <br><br></p>
 
 How is music related to memory? Music and sounds can evoke different emotions and recollections. This week, we decided to explore how people relate music to their life experiences.
 

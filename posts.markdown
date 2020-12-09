@@ -7,7 +7,7 @@ permalink: /posts/
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>
-    {% for post in tag[1] %}
+    {% for post in tag[1] reversed %}
     <p><span><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
         <small><span>| {{ post.date | date_to_string }}</span></small></p>
     {% endfor %}

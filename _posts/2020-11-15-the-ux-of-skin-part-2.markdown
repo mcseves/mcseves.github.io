@@ -6,9 +6,12 @@ description: The UX of Skin part 2
 img: skin-cover-2.png
 tags: [UX Studio Practices] 
 ---
-> Brief: Design a way to express the skin/world interface
-> 
-> Team: Yitong Han (Giada), Moxue Jia, Max Hain, Maria Carolina Séves
+
+<p class="about-content-box"> <br> 
+Brief: Design a way to express the skin/world interface
+<BR>
+Team: Yitong Han (Giada), Moxue Jia, Max Hain, Maria Carolina Séves
+<br><br></p>
 
 
 Following the first presentation to our class, we decided to look into ways of creating an experience exploring the layers of skin that were more meaningful and immersive. Right after the feedback, Max and I started sketching a structure that allowed people to physically go through the layers, as in a small corridor. We measured the classroom and calculated how long the structure could be and what materials could be used to construct it. 

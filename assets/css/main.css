@@ -22,6 +22,11 @@
   src: url("../fonts/IBM_Plex_Sans/IBMPlexSans-Bold.ttf");
 }
 
+@font-face {
+  font-family: AndikaRegular;
+  src: url("../fonts/Andika_New_Basic/AndikaNewBasic-Regular.ttf");
+}
+
 /**
  * 1. Correct the line height in all browsers.
  * 2. Prevent adjustments of font size after orientation changes in
@@ -1399,6 +1404,16 @@ a.newer-posts:hover {
 .tag-list span a:hover {
   text-decoration: underline;
   opacity: .8;
+}
+
+.about-content-box {
+  font-family: AndikaRegular;
+  font-size: small;
+  /* text-align: center; */
+  text-transform: uppercase;
+  color: #000;
+  line-height: 180%;
+
 }
 
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */

@@ -7,12 +7,13 @@ img: acafe.jpg
 tags: [UX Studio Practices] 
 ---
 
-
-> **Brief:** Design a way to establish and maintain sensory personal contact amongst the people in your group whilst exploring the largest area of London you can
->
-> **Team:** Damul Yang, Maria Carolina Séves, Maria Shutterstock, Sebastian Ervi 
->
-> **Meeting point:** 51º31’20.4”N 0º06’07.0”W
+<p class="about-content-box"> <br> 
+Brief: Design a way to establish and maintain sensory personal contact amongst the people in your group whilst exploring the largest area of London you can
+<BR>
+Team: Damul Yang, Maria Carolina Séves, Maria Shutterstock, Sebastian Ervi 
+<BR>
+Meeting point: 51º31’20.4”N 0º06’07.0”W
+<br><br></p>
 
 
 On our first assignment, we were invited to explore London while sensing togetherness. Amidst a pandemic, where we are deprived of close contact with other human beings, how can we connect?

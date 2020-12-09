@@ -6,9 +6,12 @@ description:
 img: skin-cover-1.jpg
 tags: [UX Studio Practices] 
 ---
-> Brief: Design a way to express the skin/world interface
-> 
-> Team: Yitong Han (Giada), Moxue Jia, Max Hain, Maria Carolina Séves
+
+<p class="about-content-box"> <br> 
+Brief: Design a way to express the skin/world interface
+<BR>
+Team: Yitong Han (Giada), Moxue Jia, Max Hain, Maria Carolina Séves
+<br><br></p>
 
 The skin shouldn't be simply remembered as the largest organ that protects our bodies. Anthropology, art, history, literature, philosophy, and sociology are some of the fields that research the different aspects of skin. Presented with this facts, the challenge was to create a prototype for the skin/world interface.
 
