@@ -2,7 +2,7 @@
 layout: post
 title: The Soil Warriors
 date: 18 december 2020
-description: The UX of Soil part 2
+description: Creating a soil program for a distopic future.
 img: 
 tags: [UX Studio Practices] 
 ---

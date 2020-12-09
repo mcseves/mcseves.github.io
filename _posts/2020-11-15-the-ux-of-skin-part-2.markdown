@@ -2,7 +2,7 @@
 layout: post
 title: Skin, barrier, and privacy
 date: 15 november 2020
-description: The UX of Skin part 2
+description: About the layers of skin and its relationship with privacy.
 img: skin-cover-2.png
 tags: [UX Studio Practices] 
 ---

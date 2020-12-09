@@ -2,7 +2,7 @@
 layout: post
 title: The UX of Skin
 date: 08 november 2020
-description: 
+description: Exploring the different aspects of skin and our perceptions of it.
 img: skin-cover-1.jpg
 tags: [UX Studio Practices] 
 ---

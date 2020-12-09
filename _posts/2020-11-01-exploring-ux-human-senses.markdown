@@ -2,7 +2,7 @@
 layout: post
 title: Building a multisensory experience
 date: 01 november 2020
-description: Creating 
+description: How a funfair experience can help you discover your senses. 
 img: post2-cover.jpg
 tags: [UX Studio Practices] 
 ---

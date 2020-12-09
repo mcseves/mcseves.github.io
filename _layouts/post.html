@@ -4,6 +4,7 @@ layout: main
 <article class="article-page">
   <div class="page-content">
     {% if page.img %}
+
     <div class="page-cover-image">
       <figure>
         <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
@@ -12,6 +13,8 @@ layout: main
         {% endif %}
       </figure>
     </div> <!-- End Page Cover Image -->
+
+    
     {% else %}
     {% endif %}
     <div class="wrap-content">

@@ -2,8 +2,8 @@
 layout: post
 title: The UX of Soil
 date: 15 december 2020
-description: The UX of Soil part 1
-img: 
+description: Exploring the many aspects of soil.
+img:
 tags: [UX Studio Practices] 
 ---
 

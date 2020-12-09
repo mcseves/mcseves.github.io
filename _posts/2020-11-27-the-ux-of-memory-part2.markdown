@@ -2,7 +2,7 @@
 layout: post
 title: The Music Mind Map
 date: 15 december 2020
-description: The UX of Memory part 2
+description: On reliving songs, recalling memories, and making new connections.
 img: music-cover.jpg
 tags: [UX Studio Practices] 
 ---
