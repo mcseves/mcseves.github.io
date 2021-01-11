@@ -22,7 +22,7 @@ Team: Maria Carolina Séves, Max Hain, Qendressa Selimi, Svaney Shen
 >
 > (Landa, Feller and Philippe Descola, 2010)
 
-Soil is the foundation of our lives. We come from it, and we end our term as a part of it. To kicked off this brief, I started a research on the different roles of soil: its cultural aspects, its colours and usages through time. 
+Soil is the foundation of our lives. We come from it, and we end our term as a part of it. To kick off this brief, I started a research on the different roles of soil: its cultural aspects, its colours and usages through time. 
 
 {% include image.html url="/assets/img/ux-of-soil-1-mood.png"%}
 
@@ -33,7 +33,7 @@ To explore and understand how people interact with soil, we went to Hyde Park, L
 
 {% include image.html url="/assets/img/ux-of-soil-1-garden.png"%}
 
-Our next stop was the allotment area at Kensington Garden, a spot the volunteers suggested. Even though no one was around, we spotted a coop with chicken. Through little rituals, chicken depends a lot on soil interactions to live: for cleaning and bathing, eating, and even communicating with each other.
+Our next stop was the allotment area at Kensington Garden, a spot the volunteers suggested. Even though no one was around, we spotted a coop with chicken. Through little rituals, chicken depend a lot on soil interactions to live: for cleaning and bathing, eating, and even communicating with each other.
 
 {% include image.html url="/assets/img/ux-of-soil-1-coop.png"%}
 
