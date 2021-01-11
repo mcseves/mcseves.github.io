@@ -37,7 +37,7 @@ The plan for our class presentation was to award each student a kit for our new 
 
 {% include image.html url="/assets/img/uxsoil2/ux-of-soil-2-jar.png"%}
 
-Qendressa edited the promotional video for our package. Max and Svaney worked on creating a certificate and handbook that would be given out with the soil box, adapting the text we previously wrote with all the program details.
+Qendressa edited the promotional video for our package. Max and Svaney worked on creating a [certificate](https://drive.google.com/file/d/1qpN9w5BLrYwK3cdK0i4JsanFb_WHKPmu/view?usp=sharing) and [handbook](https://drive.google.com/file/d/1cDYJPHRedDxS8um0G37JB6JXAUtFhlE3/view?usp=sharing) that would be given out with the soil box, adapting the text we previously wrote with all the program details.
 
 #### Presentation and feedback
 
