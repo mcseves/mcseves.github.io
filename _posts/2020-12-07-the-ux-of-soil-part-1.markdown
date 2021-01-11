@@ -19,6 +19,7 @@ Team: Maria Carolina Séves, Max Hain, Qendressa Selimi, Svaney Shen
 <br>
 
 > Yet, what is complex, life-giving, and sacred to some, is ordinary, even ugly, to others. This is enigma that is soil.
+>
 > (Landa, Feller and Philippe Descola, 2010)
 
 Soil is the foundation of our lives. We come from it, and we end our term as a part of it. To kicked off this brief, I started a research on the different roles of soil: its cultural aspects, its colours and usages through time. 
