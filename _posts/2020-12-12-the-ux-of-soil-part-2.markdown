@@ -47,9 +47,7 @@ The video was played for all the class, and we proceeded to call each student to
 	
 {% include image.html url="/assets/img/uxsoil2/ux-of-soil-2-finish.png"%}
 
-Even though some of the program aspects could have been more thought out, like how to ensure people will follow it, a lot of students were amazed to receive the soil and excited to start their planting journey.
-
-Some days later I received some images of people’s new plant friends.
+For feedback, we were encouraged to think of even more aspects of this program, such as how to ensure that people would follow it through, and a wish that the video was made with real photos instead of icons and vectors. What students loved was to receive seeds and start planting right away, and some even sent me pictures a few days later showing the evolution of their plants. This may be a sign that with the right structure, an adaptation of this program could be implemented some day.
 
 {% include image.html url="/assets/img/uxsoil2/ux-of-soil-2-pet.png"%}
 
