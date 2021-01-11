@@ -13,8 +13,6 @@ Brief: Design an experience that explores planetary soil dependence
 <BR>
 Team: Maria Carolina Séves, Max Hain, Qendressa Selimi, Svaney Shen
 <br><br></p>
-
-
 <br>
 <br>
 
