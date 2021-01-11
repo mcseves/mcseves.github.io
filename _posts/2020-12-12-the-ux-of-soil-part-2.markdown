@@ -14,7 +14,7 @@ Brief: Design an experience that explores planetary soil dependence
 Team: Maria Carolina Séves, Max Hain, Qendressa Selimi, Svaney Shen
 <br><br></p>
 
-Soil preservation, biodiversity and rituals. What do they have in common? Following our feedback round, we decided to unify all our main topics into one idea.
+Soil preservation, biodiversity and rituals. What do they have in common? Following our feedback round [last week](https://mariaseves.com.br/the-ux-of-soil-part-1/), we decided to unify all the main topics discussed into one idea.
 
 We began by considering the educational aspects of building a terrarium.  I illustrated an image to represent how I envisioned the result could be through the years if one were to use soil from their birthplace and learning about its ecosystem.
 
