@@ -13,8 +13,7 @@ Brief: Design an experience that explores planetary soil dependence
 <BR>
 Team: Maria Carolina Séves, Max Hain, Qendressa Selimi, Svaney Shen
 <br><br></p>
-
-> Yet, what is complex, life-giving, and sacred to some, is ordinary, even ugly, to others. This is enigma that is soil.
+> Yet, what is complex, life-giving, and sacred to some, is ordinary, even ugly, to others. This is the enigma that is soil.
 >
 > (Landa, Feller and Philippe Descola, 2010)
 
@@ -45,7 +44,7 @@ For our presentation, we decided to show our AEIOU process and the three most po
 
 {% include image.html url="/assets/img/ux-of-soil-1-storyboards.png"%}
 
-The class showed a real interest in the educational aspect. One valuable observation was that the terrarium idea would need to be seen through a period to show damage and that we could be bolder when thinking of creating a ritual.
+The class showed a real interest in the educational aspect. One valuable observation was that the terrarium idea would need to be seen through a period to show damage and that we could be bolder when thinking of creating a ritual. Our challenge for [next week](https://mariaseves.com.br/the-ux-of-soil-part-2/) is to evolve this ideas into a proper experience.
 
 ***
 
