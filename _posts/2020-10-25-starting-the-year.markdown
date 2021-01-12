@@ -10,7 +10,7 @@ tags: [UX Studio Practices]
 <p class="about-content-box"> <br> 
 Brief: Design a way to establish and maintain sensory personal contact amongst the people in your group whilst exploring the largest area of London you can
 <BR>
-Team: Damul Yang, Maria Carolina Séves, Maria Shutterstock, Sebastian Ervi 
+Team: Damul Yang, Maria Carolina Séves, Maria Shuttleworth, Sebastian Ervi 
 <BR>
 Meeting point: 51º31’20.4”N 0º06’07.0”W
 <br><br></p>
