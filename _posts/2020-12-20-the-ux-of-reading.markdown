@@ -16,13 +16,13 @@ Team: Maria Carolina Séves, Gab Bennett, Damul Yang, Maria Shuttleworth
 
 Reading is present in many parts of our daily routines, so ingrained that we do without even paying attention. From the news feed to nutritional values in boxes, receipts, and medicine leaflets, every day we are required to process information.
 
-As of 2020, there has never been a year in the age of mobile whereas many news were daily reported, with a pandemic surrounded by the economic and politic crisis in every part of the globe. This year we were required to digest a lot of information, and many times we can't fully grasp what is written as it is explained by using really large numbers. By large numbers, I mean millions and trillions, which humans have a hard time understanding (Landy, D., Silbert, N. and Goldin, A. (2013)).
+As of 2020, there has never been a year in the age of mobile whereas many as news were daily reported, with a pandemic surrounded by the economic and politic crisis in every part of the globe. This year we were required to digest a lot of information, and many times we can't fully grasp what is written as it is explained by using really large numbers. By large numbers, I mean millions and trillions, which humans have a hard time understanding (Landy, D., Silbert, N. and Goldin, A. (2013)).
 
 In this project, we explore how people understand and visualize really large numbers.
 
 #### Literature Review
 
-For our Lit Review, we wanted to explore the confusion and anxiety that reading can cause. I read two that explored mathematics anxiety and understanding of large numbers.
+For our Lit Review, we wanted to explore the confusion and anxiety that reading can cause. I read two papers that explored mathematics anxiety and the understanding of large numbers.
 
 {% include image.html url="/assets/img/uxread/ux-read-litrev.png"%}
 
@@ -47,7 +47,7 @@ For our prototype, we held a workshop on visualizing data. We selected three rep
 The class was divided into three groups and produced their visual understanding of the news. As I was remote, I couldn’t participate during the activity. 
 
 #### Feedback
-One group of students found the news too difficult for the given time frame. In general, they liked the activity and felt that the chosen theme is relevant, as they identified with the difficulty of digesting information. 
+One group of students found the information listed on the news too difficult to digest for the given time frame, resulting in an incomplete graph. In general, they liked the activity and felt that the chosen theme was relevant, as they identified with the difficulty of making sense of information. 
 
 {% include image.html url="/assets/img/uxread/ux-read-result.png"%}
 
