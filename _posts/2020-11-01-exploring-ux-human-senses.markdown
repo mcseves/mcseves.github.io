@@ -10,7 +10,7 @@ tags: [UX Studio Practices]
 <p class="about-content-box"> <br> 
 Brief: Design an experience that manipulates human senses
 <BR>
-Team: Damul Yang, Maria Carolina Séves, Maria Shutterstock, Sebastian Ervi 
+Team: Damul Yang, Maria Carolina Séves, Maria Shuttleworth, Sebastian Ervi 
 <br><br></p>
 
 Following our [London exploration]({% post_url 2020-10-25-starting-the-year %}), our next task was to create an experience for our classmates based on the happenings we thought made us feel the most connected and thus gave us the most sense of communion.
