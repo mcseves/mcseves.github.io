@@ -11,7 +11,7 @@ tags: [UX Studio Practices]
 <br> 
 Brief: Design an experience that reveals what happens when we read
 <BR>
-Team: Maria Carolina Séves, Gab Bennett, Damul Yang, Maria Shutterstock
+Team: Maria Carolina Séves, Gab Bennett, Damul Yang, Maria Shuttleworth
 <br><br></p>
 
 Reading is present in many parts of our daily routines, so ingrained that we do without even paying attention. From the news feed to nutritional values in boxes, receipts, and medicine leaflets, every day we are required to process information.
